@@ -4,7 +4,7 @@ Machine-learning project that predicts heart-disease status from health and life
 
 > Major Project — Data Science Internship at **Elewayte** (Internship Partner: Cubestech)
 
-![Python](https://img.shields.io/badge/Python-3.x-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange) ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-orange) ![Seaborn](https://img.shields.io/badge/Seaborn-Charts-teal)
+![Python](https://img.shields.io/badge/Python-3.x-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange) ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-orange) ![Seaborn](https://img.shields.io/badge/Seaborn-Charts-teal) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Dataset
 
@@ -62,3 +62,8 @@ This is an academic machine-learning project. Its predictions are **not a medica
 
 **Kushal Rawat** — Data Analyst | BCA (AI & Data Science), JECRC University, Jaipur
 [LinkedIn](https://www.linkedin.com/in/kushal-rawat-data/) · [GitHub](https://github.com/kushalrawat2005-19)
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
